@@ -1,12 +1,12 @@
-### Hi, Im Owen👋
+# Hi, Im Owen👋
 
-# I am a senior Business Analytics and Information Systems student at the Tippie College of Business, The University of Iowa. 
+### I am a senior Business Analytics and Information Systems student at the Tippie College of Business, The University of Iowa. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-koury-912a7a21b/)
 [![Website](https://img.shields.io/badge/Website-009578?style=for-the-badge&logo=googlechrome&logoColor=white)](https://owenkoury.com/)
 
 
-## Current Skills
+# Current Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
