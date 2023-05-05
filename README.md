@@ -2,8 +2,9 @@
 
 I am a senior Business Analytics and Information Systems student at the Tippie College of Business, The University of Iowa. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/owen-koury-912a7a21b/)
-[![Website](https://img.shields.io/badge/Website-Link-green)](https://owenkoury.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-koury-912a7a21b/)
+[![Website](https://img.shields.io/badge/Website-009578?style=for-the-badge&logo=googlechrome&logoColor=white)](https://owenkoury.com/)
+
 
 Current Skills
 
@@ -12,7 +13,8 @@ Current Skills
 [![R Programming](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://www.rstudio.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 
 <!--
