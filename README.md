@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-8FC1E3?style=for-the-badge&logo=agile&logoColor=white)
 
-#Relevant Coursework
+# Relevant Coursework
 
 - 📚 BAIS:1500 Business Computing Essentials
 - 📊 BAIS:2800 Foundations of Business Analytics
