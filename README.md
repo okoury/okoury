@@ -20,6 +20,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-8FC1E3?style=for-the-badge&logo=agile&logoColor=white)
 
+#Relevant Coursework
+
+BAIS:1500 Business Computing Essentials
+BAIS:2800 Foundations of Business Analytics
+BAIS:3000 Operations Management
+BAIS:3005 Information Systems
+BAIS:3020 Computational Thinking
+BAIS:3050 Business Analytics and Information Systems Professional Preparation
+BAIS:3140 Information Visualization
+BAIS:3200 Database Management
+BAIS:3250 Data Wrangling 
+BAIS:3300 Digital Product Management
+BAIS:3500 Data Mining
+BAIS:4150 Business Analytics and Information Systems Capstone
 
 <!--
 **okoury/okoury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
